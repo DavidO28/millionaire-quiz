@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/millionaire-quiz/static/css/main.cb72658a.css",
+    "main.js": "/millionaire-quiz/static/js/main.d317db5b.js",
+    "index.html": "/millionaire-quiz/index.html",
+    "main.cb72658a.css.map": "/millionaire-quiz/static/css/main.cb72658a.css.map",
+    "main.d317db5b.js.map": "/millionaire-quiz/static/js/main.d317db5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb72658a.css",
+    "static/js/main.d317db5b.js"
+  ]
+}
