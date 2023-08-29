@@ -9,7 +9,7 @@ function App() {
 
   const data = [{
     id: 1,
-    question: "რომელი ფირმის ტელეფონს აღმერთებდა მირო ადრე, ახლა კი ეზიზღება იმის გამო რო თავისას აჯობა?",
+    question: "რომელი ფირმის ტელეფონს აღმერთებდა მირო ადრე, ახლა კი ეზიზღება იმის გამო რო თავისას აჯობა კამერით?",
     answers: [
       {
         text: "სამსუნგს",
@@ -46,7 +46,7 @@ function App() {
         correct: false,
       },
       {
-        text: "ბენვე",
+        text: "ვირის ტაჩკა",
         correct: false,
       },
     ],
@@ -82,7 +82,7 @@ function App() {
         correct: false,
       },
       {
-        text: "1100 მოჭრილი და რასაც გადაუგდებენ ან მოტეხავს (1500მდე)",
+        text: "1100 მოჭრილი და რასაც მოტეხავს (1500მდე)",
         correct: true,
       },
       {
@@ -104,7 +104,7 @@ function App() {
         correct: true,
       },
       {
-        text: "ხვალაც მოვწევ და ეგააა",
+        text: "ხვალაც მოწევს და ეგააა",
         correct: false,
       },
       {
@@ -141,7 +141,7 @@ function App() {
   },
   {
     id: 7,
-    question: "ვინ არ სცემს პატივს HTML, CSS, JS-ს? და ამავდროულად 'იცის' ქოუდინგი",
+    question: "ვინ არ სცემს პატივს HTML, CSS, JS-ს? და ამავდროულად 'სწავლობდა/იცის' ქოუდინგი",
     answers: [
       {
         text: "დათო",
@@ -185,18 +185,18 @@ function App() {
   },
   {
     id: 9,
-    question: "რომელია ყველაზე მეტი?",
+    question: "რამდენია ორჯერ ორი?",
     answers: [
       {
-        text: "1",
+        text: "დემნას ხელფასი",
         correct: false,
       },
       {
-        text: "2",
+        text: "იმდენი და ცოტა მეტი",
         correct: false,
       },
       {
-        text: "3",
+        text: "ჩვიდმეტი",
         correct: false,
       },
       {
@@ -207,44 +207,22 @@ function App() {
   },
   {
     id: 10,
-    question: "რომელია ყველაზე ნაკლები?",
+    question: "რომელ ყუთში დევს მილიონი?",
     answers: [
       {
-        text: "1",
-        correct: true,
-      },
-      {
-        text: "2",
+        text: "პირველში",
         correct: false,
       },
       {
-        text: "3",
+        text: "მეორეში",
         correct: false,
       },
       {
-        text: "4",
-        correct: false,
-      },
-    ],
-  },
-  {
-    id: 11,
-    question: "შენ გაიმარჯვე",
-    answers: [
-      {
-        text: "შენ გაიმარჯვე",
+        text: "მესამეში",
         correct: false,
       },
       {
-        text: "შენ გაიმარჯვე",
-        correct: false,
-      },
-      {
-        text: "შენ გაიმარჯვე",
-        correct: false,
-      },
-      {
-        text: "შენ გაიმარჯვე",
+        text: "მეოთხეში",
         correct: false,
       },
     ],
