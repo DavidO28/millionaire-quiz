@@ -101,13 +101,18 @@ html {
     border-radius: 10px;
     border: 2px solid white;
     font-size: 20px;
+    text-wrap:balance;
   }
 
   .answers {
+    padding: 5px;
     width: 100%;
+    height: 100%;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+    text-align: center;
+    text-wrap:balance;
   }
 
   .answer {
